@@ -73,4 +73,4 @@ James Cameron        5034710147
 
 ---
 
-**Autor:** [Ryan Quadros](https://github.com/RyanAlvesQ)
+**Autor:** [Ryan Alves](https://github.com/RyanAlvesQ)
